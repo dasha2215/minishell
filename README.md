@@ -46,7 +46,7 @@ To build and run minishell, you'll need to install the `readline` library:
      
 2. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/minishell.git
+    git clone https://github.com/dasha2215/minishell.git
     cd minishell
     ```
 
